@@ -11,6 +11,9 @@
 
 |                     国外                     	|                    国内                   	|
 |:--------------------------------------------:	|:-----------------------------------------:	|
+| [Baremetrics](https://baremetrics.com/)       ||
+| [Shopify](https://www.shopify.com/)           ||
+| [ConvertKit](https://convertkit.com/)         ||
 | [Stack Overflow](https://stackoverflow.com/) 	| [SegmentFault](https://segmentfault.com/) 	|
 |         [Stripe](https://stripe.com/)        	|                                           	|
 |      [MailChimp](https://mailchimp.com/)     	|                                           	|
