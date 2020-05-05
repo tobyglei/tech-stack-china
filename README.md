@@ -11,6 +11,9 @@
 
 |                     国外                     	|                    国内                   	|
 |:--------------------------------------------:	|:-----------------------------------------:	|
+| [VEED.IO](https://www.veed.io/)               ||
+| [Wavve](https://wavve.co/)                    ||
+| [Scraper API](https://www.scraperapi.com/)               ||
 | [Google Sheets](https://www.google.com/docs/about/) | [伙伴云](https://www.huoban.com/)|
 | [Google Doc](https://www.google.com/docs/about/) | [石墨文档](https://shimo.im/)|
 | [browserless.io](https://www.browserless.io/) ||
